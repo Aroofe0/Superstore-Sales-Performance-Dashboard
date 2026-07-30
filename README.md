@@ -4,10 +4,16 @@
 This project presents an interactive **Power BI Dashboard** built to analyze historical retail sales performance, optimize inventory/order tracking, and evaluate monthly performance against dynamic targets. The dashboard transitions raw transactional data into actionable business insights for stakeholders.
 
 ---
-
 ## 📸 Dashboard Overview
-*(You can upload a screenshot of your overview page here)*
 
+### 1. Main Overview Page
+![Superstore Overview](overview.png)
+
+### 2. Interactive Tooltip & Target Tracking
+![Dynamic Target Tooltip](tooltip.png)
+
+### 3. Deep Dive Analysis Page
+![Deep Dive Analysis](deep_dive.png)
 ---
 
 ## 🎯 Business Problem & Key Insights
